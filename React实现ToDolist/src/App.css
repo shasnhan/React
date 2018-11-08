@@ -1,0 +1,28 @@
+.todolist{
+   width: 70%;
+   margin: auto
+}
+
+
+#addlist{
+  width: 400px;
+  height: 40px;
+  outline: none;
+  border: 2px solid #cdcdcd;
+  margin: 15px;
+  font-size: 16px
+}
+
+li{
+  list-style: none;
+  width: 400px;
+  height: 30px;
+  background-color: #cdcdcd;
+  margin: 5px;
+  border-radius: 3px;
+  line-height: 30px;
+}
+button{
+  float: right;
+  margin: 5px;
+}
